@@ -1,0 +1,21 @@
+[{
+    "isbn":"9876543210","title":"A vida é bela","author":"Wheslley Rimar Bezerra","publish_date":"2014-12-14","publisher":"Senac","numOfPages":472
+},
+
+{
+    "isbn":"0123456789","title":"Game of Thrones","author":"George R. R. Martin","publish_date":"1992-06-22","publisher":"Generation","numOfPages":800
+},
+
+{
+    "isbn":"0123456789","title":"Game of Thrones","author":"George R. R. Martin","publish_date":"1992-06-22","publisher":"Generation","numOfPages":800
+},
+{
+    "isbn":"0123456789","title":"Game of Thrones","author":"George R. R. Martin","publish_date":"1992-06-22","publisher":"Generation","numOfPages":800
+},
+{
+    "isbn":"2579314658","title":"teste","author":"Beyoncé","publish_date":"1999-06-22","publisher":"BeyWorld","numOfPages":35
+},
+{
+    "isbn":"0123778896","title":"Teste","author":"teste","publish_date":"1992-06-22","publisher":"teste","numOfPages":875
+}
+]
